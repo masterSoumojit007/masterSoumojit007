@@ -18,7 +18,7 @@
 <h2 align="center">Passionate CSE Student 💻 | Exploring the Boundless World of Technology 🌐</h2>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=soumojit622&label=Profile%20views&color=0e75b6&style=flat" alt="soumojit622" /> 
+  <img src="https://komarev.com/ghpvc/?username=masterSoumojit007&label=Profile%20views&color=0e75b6&style=flat" alt="masterSoumojit007" /> 
 </p>
 
 <table align="center">
@@ -48,16 +48,16 @@
     <td width="50%">
       <h2 align="center"><strong>Github Stats</strong></h2>
       <p align="center">
-        <a href="https://github.com/soumojit622">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojit622&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <a href="https://github.com/masterSoumojit007">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=masterSoumojit007&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h2 align="center"><strong>Streak Stats</strong></h2>
       <p align="center">
-        <a href="https://github.com/soumojit622">
-          <img align="center" src="https://streak-stats.demolab.com?user=soumojit622&theme=nightowl" alt="Streak Stats" />
+        <a href="https://github.com/masterSoumojit007">
+          <img align="center" src="https://streak-stats.demolab.com?user=masterSoumojit007&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -66,16 +66,16 @@
     <td width="50%">
       <h2 align="center"><strong>Latest Project</strong></h2>
       <p align="center">
-        <a href="https://github.com/soumojit622/StoreIt">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
+        <a href="https://github.com/masterSoumojit007/StoreIt">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=masterSoumojit007&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h2 align="center"><strong>Top Contribution</strong></h2>
       <p align="center">
-        <a href="https://github.com/soumojit622">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=soumojit622&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/masterSoumojit007">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=masterSoumojit007&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -86,7 +86,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumojit622&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=masterSoumojit007&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -108,7 +108,7 @@
   <a href="https://linkedin.com/in/soumojit-banerjee-4914b3228" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="https://github.com/soumojit622" target="blank">
+  <a href="https://github.com/masterSoumojit007" target="blank">
     <img align="center" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="50" width="50" />
   </a>
   <a href="https://stackoverflow.com/users/22345746/soumojit-banerjee" target="blank">
