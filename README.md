@@ -1,98 +1,211 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Soumojit Banerjee</h1>
 <p align="center">
+  <picture align="center">
+    <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="90px">
+  </picture>
+</p>
+
+<!-- <h1 align="center">Hi 👋, I'm Soumojit Banerjee</h1> -->
+<!-- <h1 align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Frontend+Developer;DS%20|%20Web+Development%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
-</p>
+</h1> -->
 
 <p align="center">
-  <em>
-    This is me <b>Soumojit Banerjee</b>, a third year <b>Computer Science</b> undergraduate from <a href="https://technoindiauniversity.ac.in/"> <b>Techno India University</b>, West Bengal</a>.
-    An intermediate <b>Frontend Developer and a Programmer</b>
-  <br>
-  <b><I>“---An investment in knowledge pays the best interest---”</i></b>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I%27m+Soumojit+Banerjee;Computer+Science+Undergraduate;DS%20|%20Web+Development%20Enthusiast&center=true&width=500&height=50">
+  </a>
 </p>
-<!--
-<h3>Little facts about me 🧑</h3>
--->
-    <!--
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
-<br>
+
+<h2 align="center">Passionate CSE Student 💻 | Exploring the Boundless World of Technology 🌐</h2>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=soumojit622&label=Profile%20views&color=0e75b6&style=flat" alt="soumojit622" /> 
+</p>
+
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="left">
+      - 🌱 I’m currently learning <b>Full-Stack Development</b> and <b>React Native</b> for mobile apps <br>
+      - 🧑‍🎓 I’m an Undergraduate at <b>Techno India University, West Bengal</b> <br>
+      - 💬 Passionate <b>Problem Solver</b> with a love for tackling challenges <br>
+      - 📫 How to reach me: <a href="mailto:soumojitbanerjee22@gmail.com"><b>soumojitbanerjee22@gmail.com</b></a> <br>
+      - 🌍 Always open to collaborating on <b>Open Source Projects</b> <br>
+      - ⚡ Fun fact: <b>I turn coffee into code!</b>
+    </td>
+    <td width="50%" align="center">
+      <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+    </td>
+  </tr>
+</table>
 
 ---
-<!--
-<details>
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
- <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-<code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
+
+<h2 align="center">📊 My Statistics 📊</h2>
+<!--Github stats Table--> 
+<!-- <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2> -->
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h2 align="center"><strong>Github Stats</strong></h2>
+      <p align="center">
+        <a href="https://github.com/soumojit622">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumojit622&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h2 align="center"><strong>Streak Stats</strong></h2>
+      <p align="center">
+        <a href="https://github.com/soumojit622">
+          <img align="center" src="https://streak-stats.demolab.com?user=soumojit622&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h2 align="center"><strong>Latest Project</strong></h2>
+      <p align="center">
+        <a href="https://github.com/soumojit622/StoreIt">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=soumojit622&repo=StoreIt&theme=nightowl&show_owner=true" alt="StoreIt Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h2 align="center"><strong>Top Contribution</strong></h2>
+      <p align="center">
+        <a href="https://github.com/soumojit622">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=soumojit622&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumojit622&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updated everyday at 12 PM-->
+<h2 align="center">🌟 Thought Of The Day 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=programming&bg_color=011627&author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+<!-- <h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://www.youtube.com/@soumojitbanerjee7273" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="YouTube" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/soumojit-banerjee-4914b3228" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://github.com/soumojit622" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" height="50" width="50" />
+  </a>
+  <a href="https://stackoverflow.com/users/22345746/soumojit-banerjee" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/stack-overflow.png" alt="Stack Overflow" height="50" width="50" />
+  </a>
+  <a href="https://www.facebook.com/soumojit.banerjee.125" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/soumo622/" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="50" width="50" />
+  </a>
+</p> -->
+
+---
+
+<h2 align="center">🛠️ Languages and Tools 🛠️</h2>
+<p align="center"> 
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-160" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/C.svg" alt="C programming language" width="50" height="50"/> 
+  </a> 
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/CPP.svg" alt="C++ programming language" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Python-Light.svg" alt="Python programming language" width="50" height="50"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/HTML.svg" alt="HTML" width="50" height="50"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/CSS.svg" alt="CSS" width="50" height="50"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap framework" width="50" height="50"/> 
+  </a> 
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="50" height="50"/> 
+  </a> 
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Git.svg" alt="Git version control" width="50" height="50"/> 
+  </a> 
+  <a href="https://github.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Github-Light.svg" alt="GitHub" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/MySQL-Light.svg" alt="MySQL database" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Figma-Light.svg" alt="Figma design tool" width="50" height="50"/> 
+  </a> 
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/VSCode-Light.svg" alt="Visual Studio Code" width="50" height="50"/> 
+  </a> 
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/React-Light.svg" alt="React library" width="50" height="50"/> 
+  </a> 
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/NextJS-Light.svg" alt="Next.js framework" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TypeScript.svg" alt="TypeScript language" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/MongoDB.svg" alt="MongoDB database" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.appwrite.io" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Appwrite.svg" alt="Appwrite backend service" width="50" height="50"/> 
+  </a> 
+</p>
+
+---
+
+<!--Contact Section-->
+
+<h2 align="center">🤝 Connect With Me 🤝 </h2>
+<div align="center">
+ <a href="https://linkedin.com/in/soumojit-banerjee-4914b3228" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
   
-</details>
-<br>
+<a href="mailto:soumojitbanerjee22@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=Soumojitnaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
 
-<details>
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-   <br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-<code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-</details>
-<br>
+<a href="https://www.instagram.com/soumo622/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Soumojit_a_n Instagram style="margin-bottom: 5px;" />
+</a>
 
----
+<a href="https://twitter.com/Soumojit__a__n" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Soumojit__a__n Twitter" style="margin-bottom: 5px;" />
+</a>
+</div>
 
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
+<!--Footer-->
 <p align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Ratheshan03">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&reversal=true&section=footer&textBg=false"/>
 </p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Ratheshan03" /></p>
-</details>
-
----
--->
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/soumojit-banerjee-4914b3228/">
-   <img align="left" alt=" Soumojit Banerjee | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:soumojitbanerjee22@gmail.com">
-    <img align="left" alt="Soumojit Banerjee | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-   <a href="https://github.com/soumojit622">
-    <img align="left" alt="Soumojit Banerjee| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
